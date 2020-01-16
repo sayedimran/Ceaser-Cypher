@@ -4,9 +4,9 @@ title: "Caesar Cipher"
 
 <h1> Caeser Cipher </h1>
 
-<br/>
-
 <p> Implementing Caesar Cipher with Python </p>
+
+<br/>
 
 Clone The Repo and Run <code> python encrypt.py </code> Script to Convert Plain-Text to Cipher-Text
 
