@@ -1,6 +1,12 @@
----
+<!-- ---
 title: "Caesar Cipher"
----Implementing Caesar Cipher with Python
+---Implementing Caesar Cipher with Python -->
+
+<h1> Caeser Cipher </h1>
+
+<br/>
+
+<p> Implementing Caesar Cipher with Python </p>
 
 Clone The Repo and Run <code> python encrypt.py </code> Script to Convert Plain-Text to Cipher-Text
 
